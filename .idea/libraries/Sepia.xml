@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Sepia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../EECS931-AI/Sepia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../EECS931-AI/Sepia.jar!/" />
+    </SOURCES>
+  </library>
+</component>
